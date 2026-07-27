@@ -22,3 +22,12 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/Make-a-Wish-proxy.git
+```
+# Quick Notice
+
+You will need to add a file called ".env", add your key to it, for example:
+
+```env
+ROBLOX_API_KEY=b3590hn34fg94t6...
+```
+ ## Do not add 3 dots at the end, that is the "So On"
